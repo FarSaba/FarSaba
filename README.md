@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FarSaba
 - 👀 I’m interested in deep learning  and machine learning
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on bioinformatics
+- 💞️ I’m looking to collaborate on bioinformatics and machine learning project
 - 📫 How to reach me ...
 
 <!---

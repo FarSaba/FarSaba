@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FarSaba
 - 👀 I’m interested in deep learning  and machine learning
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on bioinformatics
-- 📫 How to reach me via farnazsabahi@ymail.com
+- 📫 How to reach me ...
 
 <!---
 FarSaba/FarSaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
